@@ -1,0 +1,3 @@
+# Configurações - substitua com seus próprios valores
+SECRET_KEY=0x4AAAAAABmGUEESoAGrB023GuugSoZ-yrI
+SITE_VERIFY_URL=https://challenges.cloudflare.com/turnstile/v0/siteverify
